@@ -1,0 +1,11 @@
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\bin\Debug\微信轰炸.exe.config
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\bin\Debug\微信轰炸.exe
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\bin\Debug\微信轰炸.pdb
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\bin\Debug\微信轰炸.xml
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\obj\Debug\微信轰炸.vbprojAssemblyReference.cache
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\obj\Debug\微信轰炸.Resources.resources
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\obj\Debug\微信轰炸.vbproj.GenerateResource.cache
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\obj\Debug\微信轰炸.vbproj.CoreCompileInputs.cache
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\obj\Debug\微信轰炸.exe
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\obj\Debug\微信轰炸.xml
+C:\Users\zzsj2\source\repos\微信轰炸\微信轰炸\obj\Debug\微信轰炸.pdb
